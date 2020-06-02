@@ -1,4 +1,4 @@
-namespace dotnet_core_api.models
+namespace dotnet_core_api.Models
 {
     public class Address
     {

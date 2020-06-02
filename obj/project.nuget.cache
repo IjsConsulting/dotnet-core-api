@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wbO5CYD0Bv7Bpj1a9hu1tSGQyxvBilfQvFFuxIZfK5+ZdhZdoOUXe9nndUXbwvMRhvzbbPgWNuyxrGm68/A/Dg==",
+  "dgSpecHash": "V/kkveqo4I8hWAnNZnW1POo2g5qicOp9uY2HUPewfG7fjhCcdgGveBhpIPz0PjRenyTbT0Nog1VUlkfbhHFDEQ==",
   "success": true,
   "projectFilePath": "C:\\Working\\az204\\net-core-api\\dotnet-core-api\\dotnet-core-api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\iansi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\iansi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []

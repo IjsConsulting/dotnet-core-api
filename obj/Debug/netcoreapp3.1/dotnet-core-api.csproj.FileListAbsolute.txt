@@ -1,3 +1,8 @@
+C:\Working\az204\net-core-api\dotnet-core-api\obj\Debug\netcoreapp3.1\dotnet-core-api.csprojAssemblyReference.cache
+C:\Working\az204\net-core-api\dotnet-core-api\obj\Debug\netcoreapp3.1\dotnet-core-api.AssemblyInfoInputs.cache
+C:\Working\az204\net-core-api\dotnet-core-api\obj\Debug\netcoreapp3.1\dotnet-core-api.AssemblyInfo.cs
+C:\Working\az204\net-core-api\dotnet-core-api\obj\Debug\netcoreapp3.1\dotnet-core-api.csproj.CoreCompileInputs.cache
+C:\Working\az204\net-core-api\dotnet-core-api\obj\Debug\netcoreapp3.1\dotnet-core-api.MvcApplicationPartsAssemblyInfo.cache
 C:\Working\az204\net-core-api\dotnet-core-api\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Working\az204\net-core-api\dotnet-core-api\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Working\az204\net-core-api\dotnet-core-api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -7,12 +12,9 @@ C:\Working\az204\net-core-api\dotnet-core-api\bin\Debug\netcoreapp3.1\dotnet-cor
 C:\Working\az204\net-core-api\dotnet-core-api\bin\Debug\netcoreapp3.1\dotnet-core-api.runtimeconfig.dev.json
 C:\Working\az204\net-core-api\dotnet-core-api\bin\Debug\netcoreapp3.1\dotnet-core-api.dll
 C:\Working\az204\net-core-api\dotnet-core-api\bin\Debug\netcoreapp3.1\dotnet-core-api.pdb
-C:\Working\az204\net-core-api\dotnet-core-api\obj\Debug\netcoreapp3.1\dotnet-core-api.csprojAssemblyReference.cache
-C:\Working\az204\net-core-api\dotnet-core-api\obj\Debug\netcoreapp3.1\dotnet-core-api.AssemblyInfoInputs.cache
-C:\Working\az204\net-core-api\dotnet-core-api\obj\Debug\netcoreapp3.1\dotnet-core-api.AssemblyInfo.cs
-C:\Working\az204\net-core-api\dotnet-core-api\obj\Debug\netcoreapp3.1\dotnet-core-api.csproj.CoreCompileInputs.cache
-C:\Working\az204\net-core-api\dotnet-core-api\obj\Debug\netcoreapp3.1\dotnet-core-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Working\az204\net-core-api\dotnet-core-api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Working\az204\net-core-api\dotnet-core-api\obj\Debug\netcoreapp3.1\dotnet-core-api.RazorTargetAssemblyInfo.cache
+C:\Working\az204\net-core-api\dotnet-core-api\obj\Debug\netcoreapp3.1\dotnet-core-api.csproj.CopyComplete
 C:\Working\az204\net-core-api\dotnet-core-api\obj\Debug\netcoreapp3.1\staticwebassets\dotnet-core-api.StaticWebAssets.Manifest.cache
 C:\Working\az204\net-core-api\dotnet-core-api\obj\Debug\netcoreapp3.1\staticwebassets\dotnet-core-api.StaticWebAssets.xml
 C:\Working\az204\net-core-api\dotnet-core-api\obj\Debug\netcoreapp3.1\dotnet-core-api.dll

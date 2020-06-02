@@ -1,7 +1,5 @@
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using dotnet_core_api.Models;
 using dotnet_core_api.Services;
 using Microsoft.AspNetCore.Mvc;
 
@@ -19,7 +17,7 @@ namespace dotnet_core_api.Controllers
         }
 
         [HttpGet]
-        public IEnumerable<WeatherForecast> Get()
+        public IEnumerable<Family> Get()
         {
             return this.familyService.GetFamilies();
         }
